@@ -7,7 +7,7 @@ const Home = () => {
                 Computer Engineering Graduate Student in Texas A&M University!
             </h2>
             <a className="uk-button uk-button-primary"
-                href="https://docs.google.com/document/d/1k9c_Ag0EIUgpKjaXWkmY5jJDaSc3PA8wW-UKuiGjudo/edit?usp=sharing"
+                href="https://drive.google.com/file/d/1LPgtf-MNtc3liLCRH-zYcqaVuKo6ZR8V/view?usp=sharing"
                 target="_blank" rel="noopener noreferrer"
             >
                 View Resume
