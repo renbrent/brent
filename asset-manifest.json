@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/brent/static/js/main.8f309c5d.chunk.js",
+    "main.js.map": "/brent/static/js/main.8f309c5d.chunk.js.map",
+    "runtime-main.js": "/brent/static/js/runtime-main.f56af401.js",
+    "runtime-main.js.map": "/brent/static/js/runtime-main.f56af401.js.map",
+    "static/css/2.3b5bb5d9.chunk.css": "/brent/static/css/2.3b5bb5d9.chunk.css",
+    "static/js/2.1b711afd.chunk.js": "/brent/static/js/2.1b711afd.chunk.js",
+    "static/js/2.1b711afd.chunk.js.map": "/brent/static/js/2.1b711afd.chunk.js.map",
+    "static/js/3.3efbc1fe.chunk.js": "/brent/static/js/3.3efbc1fe.chunk.js",
+    "static/js/3.3efbc1fe.chunk.js.map": "/brent/static/js/3.3efbc1fe.chunk.js.map",
+    "index.html": "/brent/index.html",
+    "static/css/2.3b5bb5d9.chunk.css.map": "/brent/static/css/2.3b5bb5d9.chunk.css.map",
+    "static/js/2.1b711afd.chunk.js.LICENSE.txt": "/brent/static/js/2.1b711afd.chunk.js.LICENSE.txt",
+    "static/media/home_bkg1.1adc28d1.jpg": "/brent/static/media/home_bkg1.1adc28d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f56af401.js",
+    "static/css/2.3b5bb5d9.chunk.css",
+    "static/js/2.1b711afd.chunk.js",
+    "static/js/main.8f309c5d.chunk.js"
+  ]
+}
