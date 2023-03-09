@@ -9,7 +9,7 @@ const Navigate = () => {
     }
 
     return (
-        <nav className="uk-navbar-container uk-margin uk-navbar" uk-navbar data-uk-sticky>
+        <nav className="uk-navbar-container uk-navbar" uk-navbar data-uk-sticky>
             <div className="uk-navbar-left">
                 <div className="uk-navbar-nav">
                     <a class="uk-navbar-item uk-logo" href="index.html">
