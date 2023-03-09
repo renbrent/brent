@@ -4,7 +4,9 @@ object-assign
 @license MIT
 */
 
-/*! UIkit 3.10.1 | https://www.getuikit.com | (c) 2014 - 2022 YOOtheme | MIT License */
+/*! UIkit 3.16.3 | https://www.getuikit.com | (c) 2014 - 2023 YOOtheme | MIT License */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /** @license React v0.20.2
  * scheduler.production.min.js
