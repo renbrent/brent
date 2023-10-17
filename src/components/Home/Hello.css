@@ -1,0 +1,15 @@
+.grid {
+    display: grid;
+    grid-template-areas: "greeting pic";
+    margin-top: 5em;
+    width: 100%;
+    place-items: center;
+}
+
+.greeting {
+    grid-area: greeting;
+}
+
+.pic {
+    grid-area: pic;
+}
